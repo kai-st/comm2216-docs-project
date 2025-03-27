@@ -1,3 +1,9 @@
 h2 {
-  color: var(--md-accent-fg-color);
+    color: var(--md-accent-fg-color);
+}
+.example {
+    display: block;
+    padding: 8px;
+    border-left: 5px solid grey;
+    border-radius: 5px;
 }
