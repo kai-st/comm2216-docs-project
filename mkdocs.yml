@@ -4,8 +4,8 @@ site_url: https://kai-st.github.io/comm2216-docs-project/
 nav:
   - Introduction: "index.md"
   - Create and Share a Draw.io File: "create.md"
-  - Class Blocks: "blocks.md"
-  - Connectors: "connectors.md"
+  - Add Classes: "blocks.md"
+  - Add Connectors: "connectors.md"
   - Export Your Diagram: "export.md"
   - Troubleshooting: "troubleshooting.md"
   - Glossary: "glossary.md"
@@ -36,3 +36,6 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
