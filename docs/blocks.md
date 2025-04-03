@@ -29,7 +29,7 @@ If you do not see a UML section in your Shapes panel, here is how to add it.
 
     !!! note
 
-        **Select** the "Remember This Setting" checkbox as well to have your selected shape set already visible the next time you visit draw.io with this browser.
+         **Select** the "Remember This Setting" checkbox as well to have your selected shape set already visible the next time you visit draw.io with this browser.
 
 5. **Click** [ Apply ].
 
@@ -47,9 +47,9 @@ If you do not see a UML section in your Shapes panel, here is how to add it.
 
     !!! note
 
-       To create a block for an interface, use the shape labelled "Interface 2"
+         To create a block for an interface, use the shape labelled "Interface 2"
 
-       ![The Interface shape](./assets/interface.png "The Interface shape")
+         ![The Interface shape](./assets/interface.png "The Interface shape")
 
 2. **Double Click** the Classname text in the class header to rename your class.
 
@@ -61,35 +61,35 @@ If you do not see a UML section in your Shapes panel, here is how to add it.
 
     !!! warning
 
-       If you delete all text from a text box below the header, the block containing it will shrink when you click out and become inaccessible.
+         If you delete all text from a text box below the header, the block containing it will shrink when you click out and become inaccessible.
 
-       ![Block disappears when text deleted](./assets/deleting%20text.gif "Block disappears when text deleted") 
+         ![Block disappears when text deleted](./assets/deleting%20text.gif "Block disappears when text deleted") 
       
-       See [Troubleshooting](troubleshooting.md) for how to handle this issue.
+         See [Troubleshooting](troubleshooting.md) for how to handle this issue.
 
 4. **Double Click** the text box below the class header to enter class level constants and instance variables
 
     !!! note
 
-       In a UML Class diagram, a class member is marked as static with an underline, and the symbol before a class member marks its visibility
+         In a UML Class diagram, a class member is marked as static with an underline, and the symbol before a class member marks its visibility
 
-          - \+  means public
-          - \-  means private
-          - \#  means protected
+             - \+  means public
+             - \-  means private
+             - \#  means protected
 
     !!! warning
 
-       Text boxes will not automatically grow as you add additional lines of text, and any overflowing text will be hidden. 
-      
-       To expand the text box:
-
-       1. **Click** outside the class block to exit text entry mode
-
-       2. **Click** the text box to reselect it.
-
-       3. **Click and Drag** the blue dot in the centre of the bottom edge to expand the box.
-
-      ![Enlarging a text box](./assets/text%20size.gif "Enlarging a text box")
+         Text boxes will not automatically grow as you add additional lines of text, and any overflowing text will be hidden. 
+         
+         To expand the text box:
+ 
+         1. **Click** outside the class block to exit text entry mode
+ 
+         2. **Click** the text box to reselect it.
+ 
+         3. **Click and Drag** the blue dot in the centre of the bottom edge to expand the box.
+ 
+         ![Enlarging a text box](./assets/text%20size.gif "Enlarging a text box")
 
 5. **Right Click** the methods block to open the context menu.
 
@@ -121,13 +121,13 @@ Once you have created a number of class blocks, you will need to arrange them in
 
     !!! note
 
-       Only shapes/text fully within the selection rectangle will be selected. Zoom out to be able to select more items.
+         Only shapes/text fully within the selection rectangle will be selected. Zoom out to be able to select more items.
 
 3. *Optional:* **Select** multiple items, and **Click** [ Group ] in the Arrange tab of the Format panel to have the selected items move as a unit permanently.
 
     !!! note
 
-       The [ Group] button will change to [ Ungroup ] once the items are grouped. **Click** [ Ungroup ] when you want to move them separately in the future.
+         The [ Group] button will change to [ Ungroup ] once the items are grouped. **Click** [ Ungroup ] when you want to move them separately in the future.
 
     ![Grouping and Ungrouping items](./assets/grouping.gif "Grouping and Ungrouping items")
 
@@ -141,7 +141,7 @@ Once you have created a number of class blocks, you will need to arrange them in
 
     !!! warning
 
-       If you distribute items with the [ Spacing ] checkbox unchecked, the results are unpredictable with blocks of different sizes.
+         If you distribute items with the [ Spacing ] checkbox unchecked, the results are unpredictable with blocks of different sizes.
 
 17. *Optional:* **Select** multiple items, and **Click** [ Horizontal ] or [ Vertical ] in the Distribute section to arrange the items with equal spacing between them. 
 
