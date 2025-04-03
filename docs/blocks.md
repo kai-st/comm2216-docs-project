@@ -73,9 +73,9 @@ If you do not see a UML section in your Shapes panel, here is how to add it.
 
          In a UML Class diagram, a class member is marked as static with an underline, and the symbol before a class member marks its visibility
 
-             - \+  means public
-             - \-  means private
-             - \#  means protected
+            +  means public
+            -  means private
+            #  means protected
 
     !!! warning
 
