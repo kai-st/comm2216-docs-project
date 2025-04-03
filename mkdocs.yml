@@ -1,4 +1,4 @@
-site_name: How to Create a UML Class Diagram with Draw.io
+site_name: How to Create a UML Class Diagram with draw.io
 site_url: https://kai-st.github.io/comm2216-docs-project/
 
 nav:
@@ -31,6 +31,10 @@ theme:
 
   features:
     - navigation.footer
+    - navigation.sections
+
+  logo: assets/drawio-logo.png
+  favicon: assets/drawio-logo.png
 
 extra_css:
   - stylesheets/extra.css

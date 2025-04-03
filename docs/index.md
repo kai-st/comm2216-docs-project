@@ -1,8 +1,8 @@
 # Introduction
 
-This guide aims to help you make UML diagrams in Draw.io, a free web-based diagram tool. Draw.io is helpful for drawing diagrams and allows for collaborating and sharing diagrams easily. Unlike some of the other drawing tools available, you do not need an account to get started, unless you want to connect a storage account from another service such as Google to Draw.io.
+This guide aims to help you make UML diagrams in draw.io, a free web-based diagram tool. draw.io is helpful for drawing diagrams and allows for collaborating and sharing diagrams easily. Unlike some of the other drawing tools available, you do not need an account to get started, unless you want to connect a storage account from another service such as Google to draw.io.
 
-For more information on Draw.io, see [their about page.](https://www.drawio.com/about)
+For more information on draw.io, see [their about page.](https://www.drawio.com/about)
 
 ## Intended Users
 
@@ -29,7 +29,7 @@ This tutorial assumes you have the following:
 
 Buttons will be denoted by square brackets as follows:
 
-<span class="example">[Button]</span>
+<span class="example">[ Button ]</span>
 <br>
 
 Verbs will be displayed in bold such as:
@@ -39,7 +39,7 @@ Verbs will be displayed in bold such as:
 
 A sequence of instructions to select menu items will be shown with arrows shown as **-->**:
 
-<span class="example"> **Select** [Menu] --> [New Folder]</span>
+<span class="example"> **Select** [ Menu ] --> [ New Folder ]</span>
 <br>
 
 Links to an external website will be highlighted in an accent colour:
@@ -49,7 +49,7 @@ Links to an external website will be highlighted in an accent colour:
 
 Optional steps will be prefaced with the word "Optional" in _italics_:
 
-<span class="example">_Optional_: **Click** [Button] for dotted connectors</span>
+<span class="example">_Optional:_ **Click** [ Button ] for dotted connectors</span>
 <br>
 
    <!-- Flag things as optional using italics *Optional*: _Click_ [Button] -->
