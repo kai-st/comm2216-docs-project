@@ -52,7 +52,7 @@ If you do not see a UML section in your Shapes panel, here is how to add it.
 
     To create a block for an interface, use the shape labelled "Interface 2"
 
-    ![THe Interface shape](./assets/interface.png "The Interface shape")
+    ![The Interface shape](./assets/interface.png "The Interface shape")
 
 2. **Double Click** the Classname text in the class header to rename your class.
 
@@ -64,7 +64,11 @@ If you do not see a UML section in your Shapes panel, here is how to add it.
 
 !!! warning
 
-    If you delete all text from text box below the header, the block containing it will shrink when you click out and become inaccessible. See (Troubleshooting)[/troubleshooting] for how to handle this issue.
+    If you delete all text from a text box below the header, the block containing it will shrink when you click out and become inaccessible.
+
+    ![Block disappears when text deleted](./assets/deleting%20text.gif "Block disappears when text deleted") 
+    
+    See [Troubleshooting](troubleshooting) for how to handle this issue.
 
 4. **Double Click** the text box below the class header to enter class level constants and instance variables
 
@@ -88,19 +92,25 @@ If you do not see a UML section in your Shapes panel, here is how to add it.
 
     3. **Click and Drag** the blue dot in the centre of the bottom edge to expand the box.
 
-    ![]()
+    ![Enlarging a text box](./assets/text%20size.gif "Enlarging a text box")
 
 5. **Right Click** the methods block to open the context menu.
 
 6. **Click** [Duplicate] to create a copy that will serve as the constructor block.
 
-7. **Click and Drag** a new divider from the Shapes panel insert it between the two copies of the method block.
+![Duplicating the method block](./assets/duplicate_method.gif "Duplicating the method block")
+
+7. **Click and Drag** a new divider from the Shapes panel and **Insert** it between the two copies of the method block.
+
+![Adding a new divider](./assets/add_divider.gif "Adding a new divider")
 
 8. **Double Click** the constructor block to edit the text to reflect the class's constructor(s).
 
 8. **Double Click** the methods block to edit the text to reflect the class's methods(s).
 
-9. *Optional:* **Right Click** --> [Duplicate] the entire class block and edit the copy to same time when making additional classes. 
+9. *Optional:* **Right Click** --> [Duplicate] the entire class block and edit the copy to save time when making additional classes. 
+
+![Making another class block](./assets/classTwo.gif "Making another class block")
 
 ## Arrange Class Blocks
 
@@ -110,6 +120,8 @@ Once you have created a number of class blocks, you will need to arrange them in
 
 2. **Click** the canvas and **Drag** out a selection rectangle to select multiple shapes to move them as a unit.
 
+![Moving multiple shapes](./assets/move_together.gif "Moving multiple shapes")
+
 !!! note
 
     Only shapes/text fully within the selection rectangle will be selected. Zoom out to be able to select more items.
@@ -118,14 +130,22 @@ Once you have created a number of class blocks, you will need to arrange them in
 
 !!! note
 
-    The [Group] button will change to [Ungroup] once the items are grouped. **Click** [Ungroup] if you want to move them separately in the future.
+    The [Group] button will change to [Ungroup] once the items are grouped. **Click** [Ungroup] when you want to move them separately in the future.
+
+![Grouping and Ungrouping items](./assets/grouping.gif "Grouping and Ungrouping items")
 
 15. *Optional:* **Select** multiple items and **Click** one of the Align buttons in the Arrange tab to align the items vertically or horizontally. 
 
+![Aligning items](./assets/align.gif "Aligning items")
+
 16. **Check** the [Spacing] checkbox in the Distribute section of the Arrange tab.
+
+![Spacing checkbox](./assets/spacing_check.png "Spacing checkbox")
 
 !!! warning
 
     If you distribute items with the [Spacing] checkbox unchecked, the results are unpredictable with blocks of different sizes.
 
 17. *Optional:* **Select** multiple items, and **Click** [Horizontal] or [Vertical] in the Distribute section to arrange the items with equal spacing between them. 
+
+![Distributing items](./assets/distribute.gif "Distributing items")
