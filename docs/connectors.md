@@ -6,11 +6,11 @@ Once you have created all the class blocks for your diagram, the next step is to
 
 1. **Select** connection as the default line type from top bar, if it is not already.
 
-![](./assets/default_connector.png)
+![Setting Default connection](./assets/default_connector.png "Setting default connection")
 
 2. **Select** your preferred default line shape from top bar. 
 
-![](./assets/default_line_shape.png)
+![Setting default line shape](./assets/default_line_shape.png "Setting default line shape")
 
 !!! note
 
@@ -22,7 +22,7 @@ Once you have created all the class blocks for your diagram, the next step is to
 
      While the block is selected, you can only see the large arrows. These arrows will create connections with the middle of the side of the class block that will automatically switch sides if you later move the connector around. **Deselect** the class block to see all the available connection points. The x's along the block edge will create more specific connections that will stay in place unless you move them. 
 
-![](./assets/hover_points.gif)
+![Connection points](./assets/hover_points.gif "Connection points")
 
 4. **Click** a connection point and **Drag** a connector to the class block you want to point to.
 
@@ -32,13 +32,13 @@ Once you have created all the class blocks for your diagram, the next step is to
 
      The green line highlight allows connection to any point, while the blue line highlight connects to a point along a side, but will automatically switch sides of the block as you move things around.
 
-![](./assets/connect.gif)
+![Connecting to second block](./assets/connect.gif "Connecting to second block")
 
 6. **Click** on a line to select it.
 
 7. **Click and Drag** line segments to arrange the line into the desired shape. A line segment will only move parallel to its direction. Lining up parallel segments will automatically remove bends, while moving end or connected block can add bends.
 
-![](./assets/move_line.gif)
+![Arranging line segments](./assets/move_line.gif "Arranging line segments")
 
 8. *Optional:* **Double Click** a line to add attached text.
 
@@ -48,7 +48,7 @@ Once you have created all the class blocks for your diagram, the next step is to
 
 9. **Select**and **Drag** the text box to move it for readability, or use the arrow keys on you keyboard for fine maneuvering.
 
-![](./assets/add_line_text.gif)
+![Adding and moving line text](./assets/add_line_text.gif "Adding and moving line text")
 
 ### Adjust Connector Atttributes
 
@@ -56,17 +56,17 @@ Once you have created a connector you can adjust its appearance in the Style tab
 
 1. **Click** the [Pattern] selector to change the solid line to a dashed line.
 
-![](./assets/line_pattern.gif)
+![Changing line to dashed pattern](./assets/line_pattern.gif "Changing line to dashed pattern")
 
 2. **Click** the [Line Start] selector to change the line head shape.
 
 3. **Click** the [Line End] selector to change the line end shape.
 
-![](./assets/change_line_ends.gif)
+![Changing line head and end shape](./assets/change_line_ends.gif "Changing line head and end shape")
 
-4.  **Increasing/Decrease** the px number in the right-hand input to adjust the line start/end size.
+4.  **Increasing or Decrease** the px number in the right-hand Line Start or Line End number input to adjust the line start/end size.
 
-![](./assets/line_ends_sizes.gif)
+![Changing the size of the line end shapes](./assets/line_ends_sizes.gif "Changing the size of the line end shapes")
 
 ## Using Prebuilt Connectors
 
