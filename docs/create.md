@@ -11,9 +11,9 @@ If you want to specify a specific folder in Google Drive for the diagram, you'll
     If you create the diagram first, then try to share it, you will not be able to specify a specific folder to store the diagram within Draw.io,
 
 1. Go to [Google Drive](http://drive.google.com).
-   ![Select +New on Google Drive](./assets/newFolderA.png "Select +New on Google Drive")
 
 2. In the top left corner, **select** [+ New] -> [New Folder].
+   ![Select +New on Google Drive](./assets/newFolderA.png "Select +New on Google Drive")
    ![Select New folder](./assets/newFolderB.png "Select New folder")
 
 3. Name the new folder.
@@ -76,26 +76,31 @@ By default, you will have the Automatic Theme as shown below. We recommend switc
    ![Select the Classic theme](./assets/defaultView.png "Select the Classic theme")
 
 2. In the top right corner, **select** [Share].
+   ![Select Share](./assets/selectShare.png "Select Share")
 
 3. You will receive a notification that sharing is only available through Google Drive. **Select** [Open] and you will be redirected to your Google Drive account.
+   ![Select Open](./assets/shareViaGoogle.png "Select Open")
 
-4. Next to the diagram we want to share, **select** the three vertical dots --> **Select** [Share] --> **Select** [Share] again
+4. Next to the diagram we want to share, **select** the three vertical dots --> **Select** [Share] --> **Select** [Share] again.
+   ![Select Share](./assets/shareOnDrive.png "Select Share")
 
-5. Under \_Share <Your File Name>, enter the email address of the person or group you want to share the file with.
+5. Under _Share_ (Your File Name), **enter** the email address of the person or group you want to share the file with.
+   ![Enter email and share file](./assets/shareFile.png "Enter email and share file")
 
 6. Below _General access_ you can set the privacy options of the file. **Select** one of the following options:
 
     - [Restricted] for only the specific email addresses that the file is shared to
     - [Anyone with the link] for allowing access those who receive the link
+      ![Select permissions](./assets/selectPermissions2.png "Select permissions")
 
 7. On the right side of the window, there is a drop down menu that allows you to select the contributor permissions. **Select** one of the following options:
 
     - [Editor] allows making changes to the diagram
     - [Viewer] only permits viewing and not commenting or editing
     - [Commenter] allows viewing and commenting
+      ![Select contributor options](./assets/selectEditor.png "Select contributor options")
 
-8. **Select** [Done].
+8. _Optional:_ The checkbox for _Notify people_ is automatically selected. This sends an email to the email address specified earlier to share with. It's helpful so that you do not need to manually message the specified person.
 
-9. The checkbox for _Notify people_ is automatically selected. This sends an email to the email address specified earlier to share with. It's helpful so that you do not need to manually message the specified person.
-
-10. **Select** [Send].
+9. **Select** [Send].
+   ![Select Send](./assets/selectSend.png "Select Send")
