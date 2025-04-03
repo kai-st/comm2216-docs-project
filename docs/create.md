@@ -33,8 +33,9 @@ If you want to specify a specific folder in Google Drive for the diagram, you'll
    ![Select done](./assets/shareFolderD.png "Select done")
 
 ## Connect your Google account to Draw.io
+After creating the folder you want to store the diagram, you will start connecting your Google account.
 
-1.  After creating the folder you want to store the diagram, go to [draw.io](https://app.diagrams.net/) to start connecting your Google account.
+1. Go to [draw.io](https://app.diagrams.net/).
 
 2.  You will receive a pop up to prompt you to select a storage place for your diagrams. Under _Save Diagrams To_, **select** [Google Drive].
     ![Select diagram storage space](./assets/selectStorage.png "Select diagram storage space")
@@ -59,7 +60,9 @@ If you want this Google Drive account to be default storage place for your diagr
 
 ## Create a New Diagram
 
-1. Now that your Google account has been connected, you'll return to the Draw.io window. **Select** [Create New Diagram].
+Now that your Google account has been connected, you'll return to the Draw.io window. You will start with creating a diagram before you will be able to share it.
+
+1. **Select** [Create New Diagram].
    ![Create new diagram](./assets/newDiagram.png "Create new diagram")
 
 2. Enter the name of the diagram in the bar beside \_Diagram Name\_.
