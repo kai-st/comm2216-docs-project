@@ -29,6 +29,9 @@ theme:
       primary: orange
       accent: light blue
 
+  features:
+    - navigation.footer
+
 extra_css:
   - stylesheets/extra.css
 
@@ -39,3 +42,10 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kai-st/comm2216-docs-project
+
+copyright: Copyright &copy; 2025 Pearly Li & Kai Steingarten
