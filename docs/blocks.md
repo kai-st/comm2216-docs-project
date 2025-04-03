@@ -46,24 +46,27 @@ If you do not see a UML section in your Shapes panel, here is how to add it.
 
 1. **Click and Drag** the shape labeled "Class" from the UML section of the Shapes panel to the central canvas.
 
-![]()
+![Dragging a Class shape to the canvas](./assets/drag%20out%20class%20lrg.gif "Dragging a Class block to the canvas")
 
 !!! note
 
     To create a block for an interface, use the shape labelled "Interface 2"
 
-    ![]()
+    ![THe Interface shape](./assets/interface.png "The Interface shape")
 
 2. **Double Click** the Classname text in the class header to rename your class.
 
+![Entering the class name](./assets/class%20name.gif "Entering the class name")
+
 3. _Optional_ **Select** your class name text and **Click** [*I*] in the Text tab in the right-hand Format panel to mark your class as an abstract class.
+
+![Italics button](./assets/italics.png "Italics button")
 
 !!! warning
 
     If you delete all text from text box below the header, the block containing it will shrink when you click out and become inaccessible. See (Troubleshooting)[/troubleshooting] for how to handle this issue.
 
-
-4. **Double Click** the text box below the class header to enter constants and instance variables
+4. **Double Click** the text box below the class header to enter class level constants and instance variables
 
 !!! note
 
