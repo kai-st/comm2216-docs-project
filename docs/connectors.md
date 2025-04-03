@@ -8,7 +8,7 @@ Once you have created all the class blocks for your diagram, the next step is to
 
 ![]()
 
-2. **Select**  your prefferd default line shape from top bar. 
+2. **Select** your preferred default line shape from top bar. 
 
 ![]()
 
@@ -70,6 +70,7 @@ Once you have created a connector you can adjust its appearance in the Style tab
 
 4.  **Increasing/Decrease** the px number in the right-hand input to adjust the line start/end size.
 
+![]()
 
 ## Using Prebuilt Connectors
 
