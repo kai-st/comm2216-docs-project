@@ -149,3 +149,5 @@ Once you have created a number of class blocks, you will need to arrange them in
 17. *Optional:* **Select** multiple items, and **Click** [Horizontal] or [Vertical] in the Distribute section to arrange the items with equal spacing between them. 
 
 ![Distributing items](./assets/distribute.gif "Distributing items")
+
+When you are satisfied with all your class blocks, it is time to [add connectors to specify their relationships](connectors).
