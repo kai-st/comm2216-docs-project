@@ -76,6 +76,8 @@ For the more complicated connector styles, it may be easier to use the prebuilt 
 
 2. **Connect** each end of the connector to the desired block as in steps 4 and 5 of the instructions for using custom connectors.
 
+![Adding and Connecting a prebuilt connector](./assets/prebuilt_connector.gif "Adding and Connecting a prebuilt connector")
+
 3. Continue with the custom instructions for arranging arrows.
 
 When you added all you connectors, you can [export your completed diagram](export).
