@@ -24,7 +24,7 @@ Once you have created all the class blocks for your diagram, the next step is to
 
     ![Connection points](./assets/hover_points.gif "Connection points")
 
-4. **Click** a connection point and **Drag** a connector to the class block you want to point to. **Hover** over second class and **Release your Drag** when  the connection point you want is highlighted.
+4. **Click** a connection point and **Drag** a connector to the class block you want to point to. **Hover** over a second class and **Release your Drag** when the connection point you want is highlighted.
 
     !!! note 
 

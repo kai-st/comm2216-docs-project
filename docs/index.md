@@ -1,6 +1,6 @@
 # Introduction
 
-This guide aims to help you make UML diagrams in draw.io, a free web-based diagram tool. draw.io is helpful for drawing diagrams and allows for collaborating and sharing diagrams easily. Unlike some of the other drawing tools available, you do not need an account to get started, unless you want to connect a storage account from another service such as Google to draw.io.
+This guide aims to help you make Unified Modeling Language (UML) Class diagrams in draw.io, a free web-based diagram tool. draw.io is helpful for drawing diagrams and allows for collaborating and sharing diagrams easily. Unlike some of the other drawing tools available, you do not need an account to get started, unless you want to connect a storage account from another service such as Google to draw.io.
 
 For more information on draw.io, see [their about page.](https://www.drawio.com/about)
 
@@ -8,12 +8,14 @@ For more information on draw.io, see [their about page.](https://www.drawio.com/
 
 This guide was created to help the following people:
 
--   Students in CST's COMP 2522 Object Oriented Programming class as the types of UML diagrams will be the ones required in the course
+-   Students in BCIT's COMP 2522 Object Oriented Programming class as the style of UML diagram will be the style required in Chris Thompson's section of the course
 -   People who have an understanding of UML diagrams and have little to no experience using tools to draw diagrams
 
 ## Intended Outcomes
 
-1. Share a diagram
+This guide will teach you how to:
+
+1. Create and share a diagram
 2. Create UML shapes such as classes and interfaces
 3. Create UML connectors
 
@@ -21,7 +23,7 @@ This guide was created to help the following people:
 
 This tutorial assumes you have the following:
 
--   An understanding of UML diagrams
+-   A basic understanding of UML diagrams. See [uml-diagrams.org](https://www.uml-diagrams.org/) for information.
 -   A Google Drive account
 -   A desktop or laptop computer as the screenshots will show the desktop layout and draw.io is intended for a desktop setup
 
