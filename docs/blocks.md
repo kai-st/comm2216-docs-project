@@ -134,18 +134,9 @@ Once you have created a number of class blocks, you will need to arrange them in
 
 15. *Optional:* **Select** multiple items and **Click** one of the Align buttons in the Arrange tab to align the items vertically or horizontally. 
 
-    ![Aligning items](./assets/align.gif "Aligning items")
-
-16. **Check** the [ Spacing ] checkbox in the Distribute section of the Arrange tab.
-
-    ![Spacing checkbox](./assets/spacing_check.png "Spacing checkbox")
-
     !!! warning
+         Aligning items vertically when they are in a horizontal row, or aligning them horizontally when they are in a vertical column, will stack them on top of each other.
 
-         If you distribute items with the [ Spacing ] checkbox unchecked, the results are unpredictable with blocks of different sizes.
-
-17. *Optional:* **Select** multiple items, and **Click** [ Horizontal ] or [ Vertical ] in the Distribute section to arrange the items with equal spacing between them. 
-
-    ![Distributing items](./assets/distribute.gif "Distributing items")
+    ![Aligning items](./assets/align.gif "Aligning items")
 
 When you are satisfied with all your class blocks, it is time to [add connectors to specify their relationships](connectors.md).
