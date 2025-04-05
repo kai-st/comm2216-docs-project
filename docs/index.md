@@ -44,15 +44,13 @@ A sequence of instructions to select menu items will be shown with arrows shown 
 
 Links to an external website will be highlighted in an accent colour:
 
-<span class="example"> For more information on Draw.io, see [their about page.](https://www.drawio.com/about)</span>
+<span class="example"> For more information on Draw.io, see [ their about page. ](https://www.drawio.com/about)</span>
 <br>
 
 Optional steps will be prefaced with the word "Optional" in _italics_:
 
 <span class="example">_Optional:_ **Click** [ Button ] for dotted connectors</span>
 <br>
-
-   <!-- Flag things as optional using italics *Optional*: _Click_ [Button] -->
 
 ## Call-outs
 
