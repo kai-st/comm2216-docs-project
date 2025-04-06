@@ -2,7 +2,7 @@
 
 Once your diagram is complete, you can export it as an image or a PDF.
 
-1. [File] --> [Export] --> [PNG] or [PDF]
+1. [ File ] --> [ Export ] --> [ PNG ] or [ PDF ]
 
 2. **Click** export.
 
