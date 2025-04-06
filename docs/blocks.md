@@ -142,4 +142,5 @@ Once you have created a number of class blocks, you will need to arrange them in
 
     ![Aligning items](./assets/align.gif "Aligning items")
 
-When you are satisfied with all your class blocks, it is time to [add connectors to specify their relationships](connectors.md).
+!!!success
+    When you are satisfied with all your class blocks, it is time to [add connectors to specify their relationships](connectors.md).

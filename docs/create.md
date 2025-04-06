@@ -121,4 +121,5 @@ Sharing diagrams through Google Drive allows you to work on a diagram at the sam
 
       ![Select Send](./assets/selectSend.png "Select Send")
 
-Congratulations! You've created a draw.io file and shared it using Google Drive. Next, we cover how to [build UML classes.](blocks.md)
+!!!success
+      Congratulations! You've created a draw.io file and shared it using Google Drive. Next, you can [build UML classes.](blocks.md)

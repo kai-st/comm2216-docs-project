@@ -19,5 +19,6 @@ Once your diagram is complete, you can export it as an image or a PDF.
 5. **Click** [ Save ].
 
     ![Select save](./assets/selectSave.png "Select save")
-
-After exporting your diagram, you gain a copy of your diagram that can easily be opened with any image software or pdf reader.
+    
+!!!success
+    After exporting your diagram, you gain a copy of your diagram that can easily be opened with any image software or pdf reader.

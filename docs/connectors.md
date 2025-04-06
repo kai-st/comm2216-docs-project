@@ -84,4 +84,5 @@ For the more complicated connector styles, it may be easier to use the prebuilt 
 
 3. Continue with the custom instructions for arranging arrows.
 
-When you have added all your connectors, you can [export your completed diagram](export.md).
+!!!success
+    When you have added all your connectors, you can [export your completed diagram](export.md).
