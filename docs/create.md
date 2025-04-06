@@ -50,13 +50,13 @@ After creating the folder you want to store the diagram, you will start connecti
    ![Choose your Google account](./assets/chooseAccount.png "Choose your Google account")
 
 5. You will be asked to sign in to your Google Drive account and allow it to connect to Draw.io. Under Sign in to continue to draw.io, **Enter** your email address and password if needed. If you already have your username and password saved in a password mananger, then it will automatically be entered.
-   ![Sign in to your Google account](./assets/signIn "Sign in to your Google account")
+   ![Sign in to your Google account](./assets/signIn.png "Sign in to your Google account")
 
 6. You will be prompted to authorize Google share your name and email to to draw.io. In the bottom right of this window, **Select** [ Continue ].
    ![Allow Draw.io access](./assets/allowAccessB.png "Allow Draw.io access")
 
 7. You will be asked to select if Draw.io can access your Google Drive including the ability to view and modify your Google Drive files used with Draw.io. **Select** [ Select all ] checkbox --> **Select** [ Continue ].
-   ![Select the checkboxes](./assets/selectCheckboxes.png "Select the checkboxes")
+   ![Select the checkboxes](./assets/checkBoxes.png "Select the checkboxes")
 
 ## Create a New Diagram
 
@@ -84,11 +84,12 @@ By default, you will have the Automatic Theme as shown below. We recommend switc
 3. You will receive a notification that sharing is only available through Google Drive. **Select** [ Open ] and you will be redirected to your Google Drive account.
    ![Select Open](./assets/shareViaGoogle.png "Select Open")
 
-4. Next to the diagram we want to share, **select** the three vertical dots --> **Select** [ Share ] --> **Select** [ Share ] again.
+4. Next to the diagram we want to share, **Select** the three vertical dots --> **Select** [ Share ] --> **Select** [ Share ] again.
    ![Select Share](./assets/shareOnDrive.png "Select Share")
 
-5. Under _Share_ (Your File Name), **enter** the email address of the person or group you want to share the file with.
-   ![Enter email and share file](./assets/shareFile.png "Enter email and share file")
+5. Under Share (Your File Name), **Enter** the email address of the person or group you want to share the file with.
+
+    ![Enter email and share file](./assets/shareFile.png "Enter email and share file")
 
 6. Below _General access_ you can set the privacy options of the file. **Select** one of the following options:
 
