@@ -57,7 +57,7 @@ Class Blocks are the fundamental components of UML class diagrams. This section 
 
     ![Entering the class name](./assets/class%20name.gif "Entering the class name")
 
-3. _Optional_ **Select** your class name text and **Click** [ I ] in the Text tab in the right-hand Format panel to mark your class as an abstract class.
+3. _Optional_ **Select** your class name text and **Click** [ I ] in the _Text_ tab in the right-hand Format panel to mark your class as an abstract class.
 
     ![Italics button](./assets/italics.png "Italics button")
 
