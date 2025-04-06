@@ -1,6 +1,6 @@
 # Add Connectors Between Your Class Blocks
 
-Once you have created all the class blocks for your diagram, the next step is to add arrows and other connectors to denote the relationships between classes. There are two ways to add those connectors in draw.io, you can either create a new connector starting from one class block and customize it to the style you need to mark a particular relationship, or you can use the prebuilt connectors from the UML section of the Shapes panel. Since it's sometimes easier to manage the connection points with custom arrows, this page will start by teaching you how to make custom connectors, and then briefly touch on using the prebuilt connectors.
+Once you have created all the class blocks for your diagram, the next step is to add arrows and other connectors to denote the relationships between classes. There are two ways to add those connectors in draw.io, you can either create a new connector starting from one class block and customize it to the style you need to mark a particular relationship, or you can use the prebuilt connectors from the _UML_ section of the Shapes panel. Since it's sometimes easier to manage the connection points with custom arrows, this page will start by teaching you how to make custom connectors, and then briefly touch on using the prebuilt connectors.
 
 ## Using Custom Connectors
 
@@ -68,7 +68,7 @@ Once you have created a connector you can adjust its appearance **in the Style t
 
     ![Changing line head and end shape](./assets/change_line_ends.gif "Changing line head and end shape")
 
-4.  **Increase or Decrease** the px number in the right-hand Line Start or Line End number input to adjust the line start/end shape size.
+4.  **Increase or Decrease** the px number in the right-hand _Line Start_ or _Line End_ number input to adjust the line start/end shape size.
 
     ![Changing the size of the line start and end shapes](./assets/line_ends_sizes.gif "Changing the size of the line start and end shapes")
 
@@ -76,7 +76,7 @@ Once you have created a connector you can adjust its appearance **in the Style t
 
 For the more complicated connector styles, it may be easier to use the prebuilt connectors.
 
-1. **Click and Drag** the desired connector from the UML section of the Shapes panel to the canvas.
+1. **Click and Drag** the desired connector from the _UML_ section of the Shapes panel to the canvas.
 
 2. **Connect** each end of the connector to the desired block as in steps 4 of the instructions for using custom connectors.
 
@@ -84,4 +84,4 @@ For the more complicated connector styles, it may be easier to use the prebuilt 
 
 3. Continue with the custom instructions for arranging arrows.
 
-When you have added all you connectors, you can [export your completed diagram](export.md).
+When you have added all your connectors, you can [export your completed diagram](export.md).
