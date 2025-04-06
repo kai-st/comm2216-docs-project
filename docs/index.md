@@ -69,3 +69,7 @@ Throughout this tutorial you will see notes and warnings with the following form
 !!!note
 
     A note denotes additional information that may be useful.
+
+!!!success
+
+    A success marks when a set of instructions has been completed.
