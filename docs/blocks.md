@@ -41,7 +41,7 @@ If you do not see a _UML_ section in your Shapes panel, here is how to add it.
     ![UML shape set expanded in Shapes panel](./assets/UML_in_Shapes_open.png "UML shape set expanded in Shapes panel")
 
 ## Create a Class Block
-Class Block are the fundamental component of UML class diagrams. This section will teach you how to create a class block with four sections: A class header with the class name, a fields block, a constructor block, and a methods block. draw.io doesn't have a prebuilt template that includes a constructor block, so we will add one later in this section. 
+Class Blocks are the fundamental components of UML class diagrams. This section will teach you how to create a class block with four sections: A class header with the class name, a fields block, a constructor block, and a methods block. draw.io doesn't have a prebuilt template that includes a constructor block, so we will add one later in this section. 
 
 1. **Click and Drag** the shape labeled _Class_ from the UML section of the Shapes panel to the central canvas.
 
