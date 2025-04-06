@@ -11,6 +11,7 @@ This guide was created to help the following people:
 -   Students in BCIT's COMP 2522 Object Oriented Programming class as the style of UML diagram will be the style required in Chris Thompson's section of the course
 -   People who have an understanding of UML diagrams and have little to no experience using tools to draw diagrams
 
+
 ## Intended Outcomes
 
 This guide will teach you how to:
@@ -26,31 +27,34 @@ This tutorial assumes you have the following:
 -   A basic understanding of UML diagrams. See [uml-diagrams.org](https://www.uml-diagrams.org/) for information.
 -   A Google Drive account
 -   A desktop or laptop computer as the screenshots will show the desktop layout and draw.io is intended for a desktop setup
+-   Firefox as your browser
+
+    !!!note
+        If you do not use Firefox as your browser, this guide can still help you but you may see a different sequence of images. The instructions may be slightly out of order on Chrome. For example, the sharing of a diagram on Chrome will look different than Firefox.
 
 ## Conventions
 
 Buttons will be denoted by square brackets as follows:
-
 <span class="example">[ Button ]</span>
 <br>
 
 Verbs will be displayed in bold such as:
-
 <span class="example">**Click** on the dotted line option</span>
 <br>
 
 A sequence of instructions to select menu items will be shown with arrows shown as **-->**:
-
 <span class="example"> **Select** [ Menu ] --> [ New Folder ]</span>
 <br>
 
 Links to an external website will be highlighted in an accent colour:
-
 <span class="example"> For more information on Draw.io, see [ their about page. ](https://www.drawio.com/about)</span>
 <br>
 
-Optional steps will be prefaced with the word "Optional" in _italics_:
+To reference a specific text on a page that is not a button, it will be in _italics:_
+<span class="example"> Under the _Share "Test.drawio"_, is a text field to enter an address.</span>
+<br>
 
+Optional steps will be prefaced with the word "Optional" in _italics_:
 <span class="example">_Optional:_ **Click** [ Button ] for dotted connectors</span>
 <br>
 
