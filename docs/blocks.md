@@ -10,20 +10,21 @@ The Shapes panel on the left-hand side of the screen on Draw.io has many pre-mad
 
 ![draw.io Shapes panel with UML section highlighted](./assets/shapes_panel.png "Shapes panel with UML section")
 
-If you do not see a UML section in your Shapes panel, here is how to add it.
+If you do not see a _UML_ section in your Shapes panel, here is how to add it.
 
 1. **Click** [ + More Shapes ].
 
     This will open the Shapes selection box.
     ![Shapes selection box](./assets/shapes_model.png "Shapes selection box")
 
-2. **Click** the "UML" shape set in the left-hand side of the Shapes selection box to preview the shape set.
+2. **Click** the _UML_ shape set in the left-hand side of the Shapes selection box to preview the shape set.
     ![UML shape set preview](./assets/UML_shapes.png "UML shape set preview")
 
-3. **Select** the checkbox beside "UML" to add the set to your shapes.
+3. **Select** the checkbox beside _UML_ to add the set to your shapes.
+
     ![UML checkbox](./assets/UML_check.png "UML checkbox")
 
-4. **Select** the "Labels" checkbox to add name labels for each shape in the shape panel.
+4. **Select** the _Labels_ checkbox to add name labels for each shape in the shape panel.
 
     ![Shapes selection bottom bar](./assets/shapes_model_accept.png "Shapes selection bottom bar")
 
@@ -35,24 +36,24 @@ If you do not see a UML section in your Shapes panel, here is how to add it.
 
     You should now see the UML shape set in the Shapes panel.
 
-6. **Click** the UML heading to expand the shape set.
+6. **Click** the _UML_ heading to expand the shape set.
 
     ![UML shape set expanded in Shapes panel](./assets/UML_in_Shapes_open.png "UML shape set expanded in Shapes panel")
 
 ## Create a Class Block
 Class Block are the fundamental component of UML class diagrams. This section will teach you how to create a class block with four sections: A class header with the class name, a fields block, a constructor block, and a methods block. draw.io doesn't have a prebuilt template that includes a constructor block, so we will add one later in this section. 
 
-1. **Click and Drag** the shape labeled "Class" from the UML section of the Shapes panel to the central canvas.
+1. **Click and Drag** the shape labeled _Class_ from the UML section of the Shapes panel to the central canvas.
 
     ![Dragging a Class shape to the canvas](./assets/drag%20out%20class%20lrg.gif "Dragging a Class block to the canvas")
 
     !!! note
 
-         To create a block for an interface, use the shape labelled "Interface 2"
+         To create a block for an interface, use the shape labelled _Interface 2_
 
          ![The Interface shape](./assets/interface.png "The Interface shape")
 
-2. **Double Click** the Classname text in the class header to rename your class.
+2. **Double Click** the _Classname_ text in the class header to rename your class.
 
     ![Entering the class name](./assets/class%20name.gif "Entering the class name")
 
@@ -124,7 +125,9 @@ Once you have created a number of class blocks, you will need to arrange them in
 
          Only shapes/text fully within the selection rectangle will be selected. Zoom out to be able to select more items.
 
-3. *Optional:* **Select** multiple items, and **Click** [ Group ] in the Arrange tab of the Format panel to have the selected items move as a unit permanently.
+3. *Optional:* **Select** multiple items --> **Select** _Arrange_ in the Format panel --> **Click** [ Group ] to have the selected items move as a unit permanently.
+
+    ![Arrange tab](./assets/arrangeTab.png "Arrange Tab")
 
     !!! note
 
