@@ -37,10 +37,10 @@ After creating the folder you want to store the diagram, you will start connecti
 
 1. Go to [draw.io](https://app.diagrams.net/).
 
-2.  You will receive a pop up to prompt you to select a storage place for your diagrams. Under Save Diagrams To, **select** [ Google Drive ].
+2.  You will receive a pop up to prompt you to select a storage place for your diagrams. Under Save Diagrams To, **Select** [ Google Drive ].
     ![Select diagram storage space](./assets/selectStorage.png "Select diagram storage space")
 
-3.  The pop up will change to Authorization Required. Under Authorize this app in Google Drive, **select** [ Authorize ].
+3.  The pop up will change to Authorization Required. Under Authorize this app in Google Drive, **Select** [ Authorize ].
     ![Select authorize](./assets/authorize.png "Select authorize")
 
     !!! note
@@ -55,8 +55,9 @@ After creating the folder you want to store the diagram, you will start connecti
 6. You will be prompted to authorize Google share your name and email to to draw.io. In the bottom right of this window, **Select** [ Continue ].
    ![Allow Draw.io access](./assets/allowAccessB.png "Allow Draw.io access")
 
-7. You will be asked to select if Draw.io can access your Google Drive including the ability to view and modify your Google Drive files used with Draw.io. **Select** [ Select all ] checkbox --> **Select** [ Continue ].
-   ![Select the checkboxes](./assets/checkBoxes.png "Select the checkboxes")
+7. You will be asked to select if Draw.io can access your Google Drive including the ability to view and modify your Google Drive files used with Draw.io. **Check** the [ Select all ] checkbox --> **Select** [ Continue ].
+   
+    ![Select the checkboxes](./assets/checkBoxes.png "Select the checkboxes")
 
 ## Create a New Diagram
 
@@ -75,10 +76,10 @@ Now that your Google account has been connected, you'll return to the Draw.io wi
 
 By default, you will have the Automatic Theme as shown below. We recommend switching to the Classic theme as it has more options listed in the toolbar. We think it's easier to navigate.
 
-1. In the top right corner, **select** [ . . . ] --> [ Settings ] --> [ Theme ] --> [ Classic ].
+1. In the top right corner, **Select** [ . . . ] --> [ Settings ] --> [ Theme ] --> [ Classic ].
    ![Select the Classic theme](./assets/defaultView.png "Select the Classic theme")
 
-2. In the top right corner, **select** [ Share ].
+2. In the top right corner, **Select** [ Share ].
    ![Select Share](./assets/selectShare.png "Select Share")
 
 3. You will receive a notification that sharing is only available through Google Drive. **Select** [ Open ] and you will be redirected to your Google Drive account.
@@ -95,14 +96,16 @@ By default, you will have the Automatic Theme as shown below. We recommend switc
 
     - [ Restricted ] for only the specific email addresses that the file is shared to
     - [ Anyone with the link ] for allowing access those who receive the link
-      ![Select permissions](./assets/selectPermissions2.png "Select permissions")
+
+    ![Select permissions](./assets/selectPermissions2.png "Select permissions")
 
 7. On the right side of the window, there is a drop down menu that allows you to select the contributor permissions. **Select** one of the following options:
 
     - [ Editor ] allows making changes to the diagram
     - [ Viewer ] only permits viewing and not commenting or editing
     - [ Commenter ] allows viewing and commenting
-      ![Select contributor options](./assets/selectEditor.png "Select contributor options")
+
+    ![Select contributor options](./assets/selectEditor.png "Select contributor options")
 
 8. _Optional:_ The checkbox for Notify people is automatically selected. This sends an email to the email address specified earlier to share with. It's helpful so that you do not need to manually message the specified person.
 
