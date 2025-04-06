@@ -40,23 +40,22 @@ After creating the folder you want to store the diagram, you will start connecti
 2.  You will receive a pop up to prompt you to select a storage place for your diagrams. Under _Save Diagrams To_, **select** [ Google Drive ].
     ![Select diagram storage space](./assets/selectStorage.png "Select diagram storage space")
 
-3.  The pop up will change to _Authorization Required_. Under _Authorize this app in Google Drive_, **select** [ Authorize ].
+3.  The pop up will change to Authorization Required. Under Authorize this app in Google Drive, **select** [ Authorize ].
     ![Select authorize](./assets/authorize.png "Select authorize")
 
-!!!note
+    !!! note
+        If you want this Google Drive account to be default storage place for your diagrams, **Select** [ Remember Me ]. You can always change these in your _Settings_ later.
 
-If you want this Google Drive account to be default storage place for your diagrams, **select** [ Remember Me ]. You can always change these in your _Settings_ later.
-
-4. You will be asked to choose a Google account to connect to Draw.io. **Select** your email from the suggested list or [Use another account].
+4. You will be asked to choose a Google account to connect to Draw.io. **Select** your email from the suggested list or [ Use another account ].
    ![Choose your Google account](./assets/chooseAccount.png "Choose your Google account")
 
-5. You will be asked to sign in to your Google Drive account and allow it to connect to Draw.io. Under _Sign in to continue to draw.io_, **enter** your email address and password if needed. If you already have your username and password saved in a password mananger, then it will automatically be entered.
+5. You will be asked to sign in to your Google Drive account and allow it to connect to Draw.io. Under Sign in to continue to draw.io, **Enter** your email address and password if needed. If you already have your username and password saved in a password mananger, then it will automatically be entered.
    ![Sign in to your Google account](./assets/signIn "Sign in to your Google account")
 
-6. You will be prompted to authorize Google share your name and email to to draw.io. In the bottom right of this window, **Select** [Continue].
+6. You will be prompted to authorize Google share your name and email to to draw.io. In the bottom right of this window, **Select** [ Continue ].
    ![Allow Draw.io access](./assets/allowAccessB.png "Allow Draw.io access")
 
-7. You will be asked to select if Draw.io can access your Google Drive including the ability to view and modify your Google Drive files used with Draw.io. **Select** [Select all] checkbox --> **Select** [Continue].
+7. You will be asked to select if Draw.io can access your Google Drive including the ability to view and modify your Google Drive files used with Draw.io. **Select** [ Select all ] checkbox --> **Select** [ Continue ].
    ![Select the checkboxes](./assets/selectCheckboxes.png "Select the checkboxes")
 
 ## Create a New Diagram
