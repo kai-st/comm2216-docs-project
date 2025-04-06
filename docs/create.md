@@ -37,7 +37,7 @@ After creating the folder you want to store the diagram, you will start connecti
 
 1. Go to [draw.io](https://app.diagrams.net/).
 
-2.  You will receive a pop up to prompt you to select a storage place for your diagrams. Under _Save Diagrams To_, **select** [ Google Drive ].
+2.  You will receive a pop up to prompt you to select a storage place for your diagrams. Under Save Diagrams To, **select** [ Google Drive ].
     ![Select diagram storage space](./assets/selectStorage.png "Select diagram storage space")
 
 3.  The pop up will change to Authorization Required. Under Authorize this app in Google Drive, **select** [ Authorize ].
@@ -65,7 +65,7 @@ Now that your Google account has been connected, you'll return to the Draw.io wi
 1. **Select** [ Create New Diagram ].
    ![Create new diagram](./assets/newDiagram.png "Create new diagram")
 
-2. Enter the name of the diagram in the bar beside \_Diagram Name\_.
+2. Enter the name of the diagram in the bar beside Diagram Name.
    ![Enter diagram name](./assets/nameDiagram.png "Enter diagram name")
 
 3. **Select** [ Blank Diagram ] --> [ Create ].
@@ -104,7 +104,7 @@ By default, you will have the Automatic Theme as shown below. We recommend switc
     - [ Commenter ] allows viewing and commenting
       ![Select contributor options](./assets/selectEditor.png "Select contributor options")
 
-8. _Optional:_ The checkbox for _Notify people_ is automatically selected. This sends an email to the email address specified earlier to share with. It's helpful so that you do not need to manually message the specified person.
+8. _Optional:_ The checkbox for Notify people is automatically selected. This sends an email to the email address specified earlier to share with. It's helpful so that you do not need to manually message the specified person.
 
 9. **Select** [ Send ].
    ![Select Send](./assets/selectSend.png "Select Send")
